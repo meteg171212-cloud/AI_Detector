@@ -37,4 +37,4 @@ async def check_image(ctx):
         await ctx.send("You forgot to upload the image :(")
 
 
-bot.run("MTUwMTEzOTI2MzE4ODg5Mzg0Nw.GWA7R6.aCz0aBfeZ0KJYB2hSO3zKhxWP233JJoEvMQ9Xc")
+bot.run("Bot_Token")
